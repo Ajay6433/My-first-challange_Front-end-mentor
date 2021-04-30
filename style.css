@@ -24,7 +24,7 @@ body {
 }
 #right {
     width: 50%;
-    background-image: url(/images/image-header-desktop.jpg);
+    background-image: url(images/image-header-desktop.jpg);
     background-size: cover;
     background-position: center;
     box-sizing: border-box;
